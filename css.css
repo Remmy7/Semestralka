@@ -35,17 +35,20 @@
 .backgroundDefaultFullscreen {
     width: 100%;
     height: 100vh;
-    background-size: cover;
 }
 div#pozadieHlavnaStranka {
     background: url("https://wallpaperaccess.com/full/2126190.png");
 }
 div#pozadieLogin {
     background: url("https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FtaW5nJTIwa2V5Ym9hcmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 div#pozadieLeaderboard {
     background: url("https://img.freepik.com/free-photo/close-up-spiral-notepad-coffee-cup-earphone-keyboard-gray-background_23-2148052615.jpg?size=626&ext=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 div#pozadieForums {
     background: url("https://hdwallsource.com/img/2014/8/keyboard-wallpaper-hd-38999-39895-hd-wallpapers.jpg");
